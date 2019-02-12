@@ -1,4 +1,4 @@
-### Challenge requirements 
+### Challenge requirements
 
 Create a program that does the following:
 

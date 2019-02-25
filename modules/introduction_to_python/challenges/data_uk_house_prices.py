@@ -11,7 +11,7 @@ import itertools
 
 if __name__ == "__main__":
     """ load raw data """
-    df = pd.read_excel('./datasets/UK House price index-v2.xls', sheet_name='Average price')
+    df = pd.read_excel('./datasets/UK House price index-v2.xls', sheet_name='Average price', index_col=0)
 
     """ clean the data """
     """ drop NaT indexes and columns with NaN values """

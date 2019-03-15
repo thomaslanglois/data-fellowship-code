@@ -1,0 +1,12 @@
+Name,Department,EmployeeSatisfaction,EvaluationScore,Salary,NumberOfProjects,AvgMthHours,YearsOfTenure,WorkAccident,PromotionLast5Y,CurrentStatus
+MariaT,R&D,0.47,0.53,69000,3,111,4,0,0,1
+JanetV,Support,0.58,0.84,40000,3,258,4,0,0,1
+IgorR,Support,0.2,0.99,55000,5,151,3,1,0,1
+EvanA,Sales,0.47,0.7,45000,4,134,3,0,0,1
+DannyK,Technical,0.09,0.92,84000,7,245,4,0,0,0
+JimC,ProductManager,0.86,1,72000,4,232,5,0,0,0
+StanO,Sales,0.45,0.52,63000,2,145,3,0,0,0
+MartyN,ProductManager,0.11,0.83,38000,6,268,4,0,0,0
+MattP,IT,0.84,0.86,70000,3,199,3,0,0,1
+KyleL,Technical,0.21,0.5,76000,5,255,5,0,0,1
+MariaK,Sales,0.82,0.85,58000,4,274,5,0,0,0

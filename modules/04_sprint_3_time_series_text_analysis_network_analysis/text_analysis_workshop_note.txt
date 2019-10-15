@@ -1,0 +1,5 @@
+https://www.twilio.com/ 
+	+Cloud communications platform for building SMS, Voice & Messaging applications on an API built for global scale.
+
+https://monkeylearn.com/
+	+Text analysis as a service
